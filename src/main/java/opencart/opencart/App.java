@@ -5,7 +5,7 @@ package opencart.opencart;
  *
  */
 public class App {
-private int a=10;
+
 
     public static void main( String[] args )
     {
